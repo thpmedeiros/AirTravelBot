@@ -1,0 +1,11 @@
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\bin\Debug\netcoreapp2.1\AirTravelBot.deps.json
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\bin\Debug\netcoreapp2.1\AirTravelBot.runtimeconfig.json
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\bin\Debug\netcoreapp2.1\AirTravelBot.runtimeconfig.dev.json
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\bin\Debug\netcoreapp2.1\AirTravelBot.dll
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\obj\Debug\netcoreapp2.1\AirTravelBot.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\obj\Debug\netcoreapp2.1\AirTravelBot.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\obj\Debug\netcoreapp2.1\AirTravelBot.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\obj\Debug\netcoreapp2.1\AirTravelBot.AssemblyInfo.cs
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\bin\Debug\netcoreapp2.1\AirTravelBot.pdb
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\obj\Debug\netcoreapp2.1\AirTravelBot.dll
+C:\Users\thiag\source\repos\AirTravelBot\AirTravelBot\obj\Debug\netcoreapp2.1\AirTravelBot.pdb
